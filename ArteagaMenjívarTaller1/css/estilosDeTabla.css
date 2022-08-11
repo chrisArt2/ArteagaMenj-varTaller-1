@@ -1,0 +1,23 @@
+.encabezado{
+    background-color: gray;
+    color: rgba(255, 166, 0, 0.861);
+}
+
+.titulos{
+    padding: 0.5em;
+}
+
+.centrar-tabla, .div-dia{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:  antiquewhite;;
+    position: absolute;
+    top: 10em;
+    left: 25vw;
+}
+
+td{
+   padding: 1em; 
+   text-align: center;
+   border: 0.5px solid gray;
+}
